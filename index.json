@@ -1,0 +1,17 @@
+[
+  {
+    "Package": "FlowSistem_Library.library",
+    "Name": "FlowSistem",
+    "Version": "1.0.0.0"
+  },
+  {
+    "Package": "FlowSistem_Library-Administrador-VPC-AUTOMACAO.opt",
+    "Name": "Administrador-VPC-AUTOMACAO",
+    "Version": "1.0.0.0"
+  },
+  {
+    "Package": "FlowSistem_Library-AllUsers.opt",
+    "Name": "FlowSistem AllUsers",
+    "Version": "1.0.0.0"
+  }
+]
