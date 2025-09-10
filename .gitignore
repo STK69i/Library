@@ -1,0 +1,12 @@
+*.bak
+*.crc
+*.log
+*.tmp
+*.o
+*.out
+*.exe
+*.compile.tmp
+*.chk
+*.src
+*.prux
+*.bak-project
